@@ -1,0 +1,55 @@
+*
+body{
+    background: url(costa.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 99%;
+    height:200%;
+}
+h2{
+    margin: top 175px;
+    text-align: left; 
+    font-family: Comic Sans MS; 
+    font-weight:bold; 
+    font-size: 50px; 
+    color: #000000; 
+    text-shadow: -1px 0 #000000, 0 1px #030303, 1px 0 #000000, 0 -1px #0c0c0c, -2px 2px 0 #000000, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #0a0a0a, 4px 4px #414D68, 5px 5px #050505;
+}
+
+
+   form{
+    margin: auto;
+background-color: #0baaf371;
+   padding: 20px; 
+   width: 500px;
+margin-top: 20px;
+border: 1px solid #ffffff;
+color:#e61414;
+height: 400px;
+border-radius: 10px;
+margin-top: 145px;
+    color: #050505; 
+    box-shadow: 0 0 100px rgb(253, 2, 2);
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+    display: block;
+    
+}
+input{
+    padding: 5px;
+margin-bottom: 20px;
+border-radius: 5px;
+background-color: #e405f81f;
+}
+
+input[type="submit"]
+{
+    width: 45%;
+    background-color: rgb(7, 217, 245);
+    color: rgb(0, 0, 0);
+    font-size: 140%;
+    margin-left: 50%;
+    border-radius: 5em;
+}
